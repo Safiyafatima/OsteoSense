@@ -1,0 +1,12 @@
+﻿__pycache__/
+*.py[cod]
+*.pyo
+.vscode/
+.venv/
+venv/
+env/
+*.log
+data/osteosense.db
+data/last_report.txt
+data/screening_results.csv
+data/training_data.csv
