@@ -23,6 +23,11 @@ class PatientData(BaseModel):
     sleep_disturbance: bool   
     bmi: float
 
+@app.get("/")
+@app.head("/")
+def root():
+    return {"status": "AI Risk Engine Active"}
+
 @app.post("/calculate_risk")
 def calculate(patient: PatientData):
     try:
