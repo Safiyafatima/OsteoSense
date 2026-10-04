@@ -37,7 +37,7 @@
 
 OsteoSense is a medical pilot platform for community-level osteoarthritis (OA) screening. It combines a structured clinical questionnaire, bio-acoustic and movement sensor telemetry, and machine-learning risk stratification into a single offline-capable workflow designed for community health workers (CHWs) operating at the frontline.
 
-The system is intended for **preliminary screening and referral support** — not as a replacement for clinical diagnosis.
+The system is intended for **preliminary screening and referral support**  not as a replacement for clinical diagnosis.
 
 ### Core Capabilities
 
